@@ -1,9 +1,7 @@
-'use strict';
-var test = require('ava');
-var textExtensions = require('./');
+import test from 'ava';
+import x from './';
 
-test(function (t) {
-	t.assert(Array.isArray(textExtensions));
-	t.assert(textExtensions.length > 0);
-	t.end();
+test(t => {
+	t.true(Array.isArray(x));
+	t.true(x.length > 0);
 });
