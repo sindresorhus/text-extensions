@@ -1,7 +1,7 @@
 import test from 'ava';
-import x from './';
+import m from '.';
 
 test(t => {
-	t.true(Array.isArray(x));
-	t.true(x.length > 0);
+	t.true(Array.isArray(m));
+	t.true(m.length > 0);
 });

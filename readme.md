@@ -15,7 +15,7 @@ $ npm install --save text-extensions
 ## Usage
 
 ```js
-var textExtensions = require('text-extensions');
+const textExtensions = require('text-extensions');
 
 console.log(textExtensions);
 //=> ['asp', 'aspx', ...]
@@ -24,10 +24,10 @@ console.log(textExtensions);
 
 ## Related
 
-- [`is-text-path`](https://github.com/sindresorhus/is-text-path) - Check if a filepath is a text file
-- [`binary-extensions`](https://github.com/sindresorhus/binary-extensions) - List of binary file extensions
+- [is-text-path](https://github.com/sindresorhus/is-text-path) - Check if a filepath is a text file
+- [binary-extensions](https://github.com/sindresorhus/binary-extensions) - List of binary file extensions
 
 
 ## License
 
-MIT © [Sindre Sorhus](http://sindresorhus.com)
+MIT © [Sindre Sorhus](https://sindresorhus.com)
