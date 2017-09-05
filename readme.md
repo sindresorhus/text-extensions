@@ -8,7 +8,7 @@ The list is just a [JSON file](text-extensions.json) and can be used wherever.
 ## Install
 
 ```
-$ npm install --save text-extensions
+$ npm install text-extensions
 ```
 
 
