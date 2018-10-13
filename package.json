@@ -14,7 +14,7 @@
 		"node": ">=0.10"
 	},
 	"scripts": {
-		"test": "ava"
+		"test": ""
 	},
 	"files": [
 		"text-extensions.json"
