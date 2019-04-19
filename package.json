@@ -11,13 +11,16 @@
 	},
 	"main": "text-extensions.json",
 	"engines": {
-		"node": ">=0.10"
+		"node": ">=8"
 	},
 	"scripts": {
-		"test": ""
+		"test": "xo && ava && tsd"
 	},
 	"files": [
-		"text-extensions.json"
+		"index.js",
+		"index.d.ts",
+		"text-extensions.json",
+		"text-extensions.json.d.ts"
 	],
 	"keywords": [
 		"text",
@@ -31,6 +34,8 @@
 		"array"
 	],
 	"devDependencies": {
-		"ava": "*"
+		"ava": "^1.4.1",
+		"tsd": "^0.7.2",
+		"xo": "^0.24.0"
 	}
 }
