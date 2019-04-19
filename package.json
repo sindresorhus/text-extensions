@@ -9,7 +9,6 @@
 		"email": "sindresorhus@gmail.com",
 		"url": "sindresorhus.com"
 	},
-	"main": "text-extensions.json",
 	"engines": {
 		"node": ">=8"
 	},
@@ -25,7 +24,6 @@
 	"keywords": [
 		"text",
 		"ascii",
-		"ext",
 		"extensions",
 		"extension",
 		"file",

@@ -6,7 +6,7 @@ List of text file extensions.
 import textExtensions = require('text-extensions');
 
 console.log(textExtensions);
-//=> ['asp', 'aspx', ...]
+//=> ['asp', 'aspx', …]
 ```
 */
 declare const textExtensions: readonly string[];
