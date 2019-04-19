@@ -1,6 +1,6 @@
 {
 	"name": "text-extensions",
-	"version": "1.9.0",
+	"version": "2.0.0",
 	"description": "List of text file extensions",
 	"license": "MIT",
 	"repository": "sindresorhus/text-extensions",
