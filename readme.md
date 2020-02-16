@@ -4,13 +4,11 @@
 
 The list is just a [JSON file](text-extensions.json) and can be used anywhere.
 
-
 ## Install
 
 ```
 $ npm install text-extensions
 ```
-
 
 ## Usage
 
@@ -21,12 +19,10 @@ console.log(textExtensions);
 //=> ['asp', 'aspx', …]
 ```
 
-
 ## Related
 
 - [is-text-path](https://github.com/sindresorhus/is-text-path) - Check if a file path is a text file
 - [binary-extensions](https://github.com/sindresorhus/binary-extensions) - List of binary file extensions
-
 
 ---
 
