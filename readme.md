@@ -1,4 +1,4 @@
-# text-extensions [![Build Status](https://travis-ci.org/sindresorhus/text-extensions.svg?branch=master)](https://travis-ci.org/sindresorhus/text-extensions)
+# text-extensions
 
 > List of text file extensions
 
