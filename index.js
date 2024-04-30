@@ -1,3 +1,3 @@
-'use strict';
+import textExtensions from './text-extensions.json' with {type: 'json'};
 
-module.exports = require('./text-extensions.json');
+export default textExtensions;

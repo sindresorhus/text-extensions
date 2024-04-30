@@ -3,7 +3,7 @@ List of text file extensions.
 
 @example
 ```
-import textExtensions = require('text-extensions');
+import textExtensions from 'text-extensions';
 
 console.log(textExtensions);
 //=> ['asp', 'aspx', …]
@@ -11,4 +11,4 @@ console.log(textExtensions);
 */
 declare const textExtensions: readonly string[];
 
-export = textExtensions;
+export default textExtensions;
